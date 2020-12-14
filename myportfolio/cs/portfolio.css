@@ -1,0 +1,261 @@
+@charset "utf-8";
+body{
+	background-color: rgba(0,0,0,0.9);
+	position: fixed;
+}
+.menu{
+	width: 930px;
+	height: 100vh;
+	background-color: black;
+	top: 0;
+}
+.add-heading{
+	color:  #37c6ff;
+	font-size: 40px;
+}
+@charset "utf-8";
+
+body{
+	background-color: rgba(0,0,0,0.9);
+}
+
+#menu{
+	height: 100vh;
+	background-color: black;
+	position: fixed;
+	top: 0;
+}
+
+#m-cont{
+	width: 5.7%;
+	height: 78vh;
+	margin-top: 90px;
+}
+
+.text-cont{
+	width: 80%;
+	height: 100%;
+	margin-top: 90px;
+	margin-left: 90px;
+
+}
+.a-page{
+	width: 94.2%;
+	height: 100vh;
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding-top: 230px;
+	border-top: 2px dotted #0BF7E4;
+	border-right: 2px dotted #0BF7E4;
+	border-bottom: 2px dotted #0BF7E4;
+}
+.a-page h1{
+	display: inline;
+	font-size: 80px;
+	color: #0BF7E4;
+	padding: 30px 30px 0px 30px;
+	border-bottom : 3px dashed #0BF7E4;
+}
+
+li{
+	list-style: none;
+}
+ .user, .cog, .envelop{
+	font-size: 35px;
+	color: white;
+}
+
+.home{
+	font-size: 35px;
+	color: #37c6ff;
+}
+.eye{
+	font-size: 32.3px;
+	color: white;
+}
+.h-text{
+	color: #37c6ff;
+	font-size: 18px;
+	font-family: fantasy;
+	position: absolute;
+	top: 60px;
+	left: 20px;
+}
+.a-text{
+	color: #37c6ff;
+	font-size: 18px;
+	font-family: fantasy;
+	position: absolute;
+	top: 170px;
+	left: 20px;
+}
+.s-text{
+	color: #37c6ff;
+	font-size: 18px;
+	font-family: fantasy;
+	position: absolute;
+	top: 270px;
+	left: 20px;
+}
+.w-text{
+	color: #37c6ff;
+	font-size: 18px;
+	font-family: fantasy;
+	position: absolute;
+	top: 370px;
+	left: 20px;
+}
+.c-text{
+	color: #37c6ff;
+	font-size: 18px;
+	font-family: fantasy;
+	position: absolute;
+	top: 470px;
+	left: 20px;
+}
+
+
+.t-cont{
+	padding-top: 90px;
+	padding-left: 30px;
+}
+.t-cont h1{
+	font-size: 52px;
+	font-family: sans-serif;
+}
+.t-cont h6{
+	font-size: 18px;
+	color: grey; 
+}
+
+.bdy{
+	font-family: cursive;
+	font-size: 15px;
+	color: grey;
+	opacity: 0.4;
+	position: absolute;
+	top: 0;
+	left: 10px;
+}
+.hone{
+	font-family: cursive;
+	font-size: 15px;
+	color: grey;
+	opacity: 0.4;
+	position: absolute;
+	top: 70px;
+	left: 36px;
+}
+.c-hone{
+	font-family: cursive;
+	font-size: 15px;
+	color: grey;
+	opacity: 0.4;
+	position: absolute;
+	top: 350px;
+	left: 378px;
+}
+.c-bdy{
+	font-family: cursive;
+	font-size: 15px;
+	color: grey;
+	opacity: 0.4;
+	position: absolute;
+	top: 460px;
+	left: 50px;
+}
+.c-hml{
+	font-family: cursive;
+	font-size: 15px;
+	color: grey;
+	opacity: 0.4;
+	position: absolute;
+	top: 510px;
+	left: 30px;
+}
+
+.cont-about , .cont-skill{
+	margin-top: 90px;
+	margin-left: 40px;
+}
+
+.about-head{
+	font-size: 60px;
+}
+.cont-about p{
+	font-size: 13.8px;
+}
+
+
+
+.form-cont{
+	width: 500px;
+}
+#name , #email{
+	width: 280px;
+	height: 50px;
+	outline: none;
+	border : none;
+	background-color: #565050;
+	border-radius: 7px;
+}
+
+#name , #email{
+	width: 230px;
+	height: 50px;
+	outline: none;
+	border : none;
+	background-color: #565050;
+	border-radius: 7px;
+}
+#subject{
+	width: 480px;
+	height: 50px;
+	outline: none;
+	border : none;
+	background-color: #565050;
+	border-radius: 7px;
+}
+#message{
+	width: 480px;
+	height: 120px;
+	outline: none;
+	border : none;
+	background-color: #565050;
+	border-radius: 7px;
+}
+.ani-image{
+	margin-top: 130px;
+	border-radius: 43%;
+	position: fixed;
+}
+
+.anit-image{
+	margin-top: 180px;
+	border-radius: 50%;
+	padding-left: 100px;
+	position: fixed;
+}
+.para-work{
+	width: 1260px;
+	height: 100vh;
+}
+.work-row, .workt-row{
+	width: 100%;
+	height: 50vh;
+}
+.v1-project, .v2-project, .v3-project, .v4-project, .v5-project, .v6-project, .v7-project, .v8-project{
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	margin-top: 100px;
+	margin-left: 90px;
+}
+
+.s-icon{
+	margin-top: 90px;
+	font-size: 20px;
+}
+
+
